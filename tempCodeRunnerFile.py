@@ -1,1 +1,2 @@
-print(mylist[-12::4])
+data=f.readlines()
+# print(data)
