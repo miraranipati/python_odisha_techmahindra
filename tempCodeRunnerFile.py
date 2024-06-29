@@ -1,0 +1,1 @@
+print(mylist[-12::4])
