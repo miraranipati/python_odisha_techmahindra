@@ -1,0 +1,6 @@
+name=input("Enter your name:\n")
+age=int(input("Enter your age\t"))
+salary=float(input("Enter salary\n"))
+print(name,type(name))
+print(age,type(age))
+print(salary,type(salary))
